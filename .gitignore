@@ -7,6 +7,7 @@ tmp/*
 doc/api
 doc/app
 *.swp
+nbproject
 *~
 .DS_Store
 
